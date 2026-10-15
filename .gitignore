@@ -15,7 +15,7 @@
 *.pem
 *.key
 .env
-
+actions-runner-*.tar*
 # Python
 __pycache__/
 *.pyc
